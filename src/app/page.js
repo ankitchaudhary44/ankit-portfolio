@@ -211,12 +211,12 @@ export default function Home() {
             className="flex flex-col sm:flex-row gap-6 cursor-none"
           >
             <a 
-              href="https://drive.google.com/file/d/1NHJJZ5mLiwfEzI8M7vzJuro-y9bAxsNU/view?usp=drivesdk" 
+              href="https://drive.google.com/file/d/12UV2f6-e_hp4SpPU1-bWfvv_4OyV9Lqi/view?usp=drive_link" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="px-8 py-4 bg-white text-black rounded-xl font-bold tracking-wide hover:scale-105 transition-all duration-300 shadow-[0_0_30px_rgba(255,255,255,0.2)] hover:shadow-[0_0_40px_rgba(255,255,255,0.4)] text-center cursor-none"
             >
-              Deploy Resume
+              Resume
             </a>
             <button 
               onClick={() => setTerminalOpen(true)}
